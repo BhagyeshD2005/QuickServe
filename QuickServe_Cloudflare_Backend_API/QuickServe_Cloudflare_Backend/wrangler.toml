@@ -1,0 +1,16 @@
+name = "quickserve-api"
+main = "src/index.ts"
+compatibility_date = "2026-09-21"
+
+[vars]
+APP_NAME = "QuickServe API"
+JWT_ISSUER = "quickserve-api"
+JWT_AUDIENCE = "quickserve-client"
+CORS_ORIGINS = "*"
+GOOGLE_CLIENT_ID = "1092817021642-7sgo3dqmeljot2l3kpeleis3fi37jpol.apps.googleusercontent.com"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "quickserve-db"
+database_id = "2c50bc5c-e509-4587-b099-f2f03a3f207f"
+migrations_dir = "migrations"

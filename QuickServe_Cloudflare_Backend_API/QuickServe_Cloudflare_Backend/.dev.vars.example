@@ -1,0 +1,5 @@
+JWT_SECRET="replace-with-a-long-random-secret-at-least-32-characters"
+CORS_ORIGINS="*"
+
+# Google OAuth Web Client ID used as the backend audience
+GOOGLE_CLIENT_ID="1092817021642-7sgo3dqmeljot2l3kpeleis3fi37jpol.apps.googleusercontent.com"

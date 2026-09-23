@@ -1,0 +1,6 @@
+{
+  "name": "QuickServe",
+  "description": "Production-quality Service Request Management Admin Panel connected to live API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
