@@ -175,5 +175,5 @@ The platform relies on six relational tables hosted on Cloudflare D1:
 ## 📄 License & Student Credits
 
 Developed as an academic engineering project by **Bhagyesh Dedmuthe**  
-**Department of Computer Technology / Information Technology**  
+**Department of Computer Technology **  
 **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur, Maharashtra, India.**
